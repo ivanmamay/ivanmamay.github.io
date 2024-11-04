@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ivan May's CV 
+title: Ivan May
 ---
 # Ivan May
 DevOps Engineer
@@ -18,7 +18,7 @@ DevOps Engineer
 
 ## Summary
 
-Infrastructure DevOps Engineer with nearly 10 years of experience, I specialize in cloud-based DevOps, focusing on AWS and Azure. I bring a robust understanding of SRE practices, SDLC, and DevSecOps principles, and have led projects across infrastructure design, security, automation QA, CI/CD pipeline optimization, and Infrastructure as Code (IaC).
+Infrastructure DevOps Engineer with nearly 10 years of experience, I specialize in cloud-based DevOps, focusing on AWS and Azure. I bring a robust understanding of SRE practices, SSDLC, and DevSecOps principles, and have led projects across infrastructure design, security, automation QA, CI/CD pipeline optimization, and Infrastructure as Code (IaC).
 
 ### Technology profile
 
