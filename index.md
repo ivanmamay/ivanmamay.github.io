@@ -41,7 +41,7 @@ Fintech, Advertising, Security, Telecom, Blockchain, IoT, LLM
 Infrastructure, Clouds, DevSecOps, FinOps, SSDLC, SRE, Monitoring, AQA processes
 
 ## Experience
-`Aug 2020 - present 2y 4m`
+`Aug 2022 - present 2y 4m`
 **[Whitespots.io](https://whitespots.io/)** *DevOps Engineer | DevSecOps* 
 
 Cloud Migration for a Business Social Network:
