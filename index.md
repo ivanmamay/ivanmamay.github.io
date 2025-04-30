@@ -29,6 +29,7 @@ Infrastructure DevOps Engineer with nearly 10 years of experience, I specialize 
 - ___DevSecOps___: Vanta, SASTs and DASTs, DepCheckers, Snyk, SonarQube, DefectDojo
 - ___DB administration___: PostgreSQL, RDS(Aurora)
 - ___FinOps___: InfraCost, KubeCost
+- ___Data/ML___: Azure Databricks
 - ___QA Automation___: TestKube, Selenium, Puppeteer, Cypress.io, Playwright
 - ___Language___: Python, BASH, Golang
 
@@ -77,6 +78,7 @@ The project was intended for a fast-growing global tobacco manufacturing company
 - • built and administered CI/CD pipelines in GitLab for integrating Security scanners, SAST, IAST
 - • developed and supported automation QA infrastructure 
 - • enhanced observability of system with IaC, SLO, SLI dashbords based on NewRelic
+- • deployed and supported Azure Databricks infrastructure for data team
 <br>**tech stack:** Azure, GitlabCI, Kubernetes, New Relic
 
 `Nov 2018 - Apr 2020 18m`
